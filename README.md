@@ -1,6 +1,5 @@
-﻿# APPPLICATION NOTE
-## Student: s317856 Discolo Lorenzo
-## CUDDLE ANIMATION  
+﻿# APPLICATION NOTE
+### CUDDLE ANIMATION  
 
 
 In questo progetto è stata utilizzata la development board LandTiger V2.0 NXP LPC1768 su cui è
